@@ -20,7 +20,10 @@ export const Container = styled.div`
         padding-right: 100px;
         margin-top: 25px;
     }
+`;
 
-
-
+export const ColumnImage = styled.div`
+    img {
+        margin-left: 107px;
+    }
 `

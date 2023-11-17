@@ -3,6 +3,8 @@ import ButtonContact from "../atoms/ButtonContact"
 import Frontend from "../templates/Frontend"
 import * as S from './styles'
 
+import img01 from '../../public/img01.png'
+
 function Main() {
   
   return (
@@ -21,7 +23,11 @@ function Main() {
 
             </div>
 
-            <div>Coluna 2</div>
+            <S.ColumnImage>
+
+              <img src={img01} alt="Mulher lendo no computador."></img>
+
+            </S.ColumnImage>
           </S.Container>
 
         </Frontend>

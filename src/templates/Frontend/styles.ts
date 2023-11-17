@@ -11,7 +11,7 @@ export const Container = styled.div`
 
 
     main {
-        padding-top: 10%;
+        padding-top: 8%;
     }
 
 `;

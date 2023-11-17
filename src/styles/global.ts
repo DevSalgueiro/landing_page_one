@@ -1,5 +1,8 @@
 import { createGlobalStyle } from 'styled-components'
 
+import bkg01 from '../../public/bkg01.png';
+import bkg02 from '../../public/bkg02.png';
+
 const globalStyle = createGlobalStyle `
     * {
         padding: 0;
@@ -12,8 +15,12 @@ const globalStyle = createGlobalStyle `
     }
 
     body {
-        background-color: #F8FDFF;
         font-family: 'Poppins', sans-serif;
+        background: url(${bkg02}) no-repeat 1010px, url(${bkg01}) no-repeat 931px;
+        background-size: cover;
+        background-color: #F8FDFF;
+
+
     }
 
     button {
