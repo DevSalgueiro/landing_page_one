@@ -17,4 +17,9 @@ Creation of a landing page (in development)
 
 <h3> Desktop version </h3>
 
+<br><br>
+
 ![01](https://github.com/DevSalgueiro/landing_page_one/assets/111023661/8cdac307-1fea-4aef-804e-473394840792)
+
+
+<h3> Mobile version </h3>  (in development)
