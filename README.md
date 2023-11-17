@@ -12,3 +12,9 @@ Creation of a landing page (in development)
 <li>CSS</li>
    
 </ul>
+
+<br>
+
+<h3> Desktop version </h3>
+
+![01](https://github.com/DevSalgueiro/landing_page_one/assets/111023661/8cdac307-1fea-4aef-804e-473394840792)
