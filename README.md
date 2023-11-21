@@ -17,7 +17,7 @@ Small landing page developed using styled-components, the idea is to study and s
 
 <h3> Desktop version </h3>
 
-<br><br>
+<br>
 
 ![01](https://github.com/DevSalgueiro/landing_page_one/assets/111023661/8cdac307-1fea-4aef-804e-473394840792)
 
